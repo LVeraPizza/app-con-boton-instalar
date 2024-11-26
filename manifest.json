@@ -4,12 +4,12 @@
   "short_name": "LVP",
   "icons": [
     {
-      "src": "app-con-boton-instala/img/logo_vera_pizza.png",
+      "src": "/logo_vera_pizza.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "app-con-boton-instala/img/logo_vera_pizza.png",
+      "src": "/logo_vera_pizza.png",
       "sizes": "512x512",
       "type": "image/png"
     }
